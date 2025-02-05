@@ -1,1 +1,1 @@
-Some [leetcode.com](https://leetcode.com/studyplan/top-interview-150/) solutions
+Some https://leetcode.com/studyplan/top-interview-150/ solutions
